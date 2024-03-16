@@ -10,7 +10,8 @@ World of Warcraft ElvUI Edit - Titan's Touch UI is ElvUI framework based UI whic
     ElvUI: https://tukui.org/elvui
     mMediaTag & Tools: https://www.curseforge.com/wow/addons/elvui_mmediatag
     AddonSkins: https://www.curseforge.com/wow/addons/addonskins
-
+    *JiberishUI Icons: https://www.curseforge.com/wow/addons/jiberish-fabled-icons
+    
 Optional Addons, which i use for End-Game content (Mythic+ and Raiding)
 
     OmniCD: https://www.curseforge.com/wow/addons/omnicd
