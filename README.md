@@ -21,5 +21,7 @@ Optional Addons, which i use for End-Game content (Mythic+ and Raiding)
 Preview of Party/Raid/Boss Unitframes are below ->
 ![Party-Boss](https://github.com/ralasn/Titan-Touch-UI/assets/37068499/a611a582-6a64-4e47-acf1-25acdd3a9ec9)
 ![Raid_Boss](https://github.com/ralasn/Titan-Touch-UI/assets/37068499/944597ba-e2e9-466d-82fe-f621c14dcb66)
+
 Quick Text-based Tutorial on how to import everything required to run the UI :)
+
 [![WoW](https://img.youtube.com/vi/nmnXOf60hQ4/0.jpg)](https://www.youtube.com/watch?v=nmnXOf60hQ4)
