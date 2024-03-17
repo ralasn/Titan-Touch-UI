@@ -5,7 +5,7 @@
 World of Warcraft ElvUI Edit - Titan's Touch UI is ElvUI framework based UI which requiers following addons:
 
     Elturism: https://www.curseforge.com/wow/addons/elvui-eltruism
-    BenikUI: https://www.curseforge.com/wow/addons/benikui
+    ----------BenikUI: https://www.curseforge.com/wow/addons/benikui - This addon isnt required anymore for this UI
     WindTools: https://www.curseforge.com/wow/addons/elvui-windtools
     ElvUI: https://tukui.org/elvui
     mMediaTag & Tools: https://www.curseforge.com/wow/addons/elvui_mmediatag
